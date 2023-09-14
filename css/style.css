@@ -31,10 +31,10 @@ main {
 
 .pokemon_image {
     position: absolute;
-    bottom: 55%;
-    left: 50%;
+    bottom: 63%;
+    left: 52%;
     transform: translate(-63%, 75%);
-    height: 18%;
+    height: 20%;
 }
 
 .pokemon_data {
